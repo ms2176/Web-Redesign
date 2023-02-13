@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="helppg.css">
+<title>mail FAQ</title>
+</head>
+
+<body>
+    <section>
+        <div class="menubar"> 
+       
+       <img src="C:\xampp\htdocs\project\pictures for alphatech\logoalpha2.png" id="e" height="79" width="217" >
+       </section>
+
+    <section class="mailcat" >
+        <div class="box">
+       <h2 class="category-title"> Mail FAQ </h2>
+       <div class="faq">
+        <details>
+            <summary>How do I change my email password? </summary>
+            <p class="para">You can change your email password by logging into your web mail account, click Settings, then Accounts, then modify.</p>
+        </details>
+        <details>
+            <summary>How to setup an Auto Responder for Out Of Office or On Holiday Automatic Replies?</summary>
+            <p class="para">To setup the mail auto responder for out of office or on holiday automatic replies, 
+                you can do this by logging into your email account using web mail, entering Settings tab, click
+                Auto Responder. Enter your desired text in the window box, select status, click save.</p>
+                <br>
+                <br>
+                <br>
+        </details>
+        <details>
+            <summary>How to share your Calendar between Friends or Public via a web browser?</summary>
+            <p class="para">You can share your Calendar to specified friends only or public and friends available via any web browser. 
+                To do this log into your webmail, click settings, Calendar settings, there you will see a section called sharing, 
+                select the configuration you want and you will also notice a special public URL link which you could then send to your friends etc,
+                 who would then be able to access your schedules via a normal browser.</p>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+        </details>
+        <details>
+            <summary> Help I have forgot my email password how can I retrieve it?</summary>
+            <p class="para">You can have your password resent to your email address by going to your web mail login screen and clicking "Forgot your password?" link. Note: your password will also be sent to your alternate email address if you have specified an alternative email address in settings, accounts, modify, alternate email address.</p>
+        </details>
+
+
+
+    </div>
+    
+    </section>
+
+      
+</body>
+</html>
