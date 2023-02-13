@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="diffstyle.css">
+        <title>Backup DNS</title>
+        <hr>
+        <hr>
+        <br>
+        <body>
+            <img src="logo2.0.png"align=left class="logoposition">
+        <h2 id="heading" align="center" style="font-family:New Century Schoolbook, TeX Gyre Schola, serif;color: aliceblue;">Backup DNS Server: </h2>
+        <h2 style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;color: aliceblue;">Server Monitoring Alert Service:</h2><br>
+        
+
+        <hr>
+        <hr>
+    
+        </body>
+    
+    </head>
+    
+    <body>
+        <div class="banner2">
+            <div class="box">
+                <p style="background-image:url('newbg2.jpg');">
+                    <h1 style="font-size: xx-large;color: black;"><u>Why US?</u></h1><br>
+                    <img src="backupDnspic.jpg" align="center" width="600px" height="300px"><br><br>
+                    <p style="font-size: x-large;">24/7 continuous DNS server operation service is critical when doing business on the Internet.</p><br>
+                    <ul>
+                    <li><p style="font-size: x-large;">In the event of failure of your primary DNS server our secondary DNS service will provide backup and redundancy.</li></p><br>
+                    <li><p style="font-size: x-large;">Our secondary DNS service will provide additional backup DNS servers that mirror your own DNS zone information.This will improve your DNS resilience and enhance performance of your server web services in minutes to handle increased loads!</p></li><br>
+                    <li><p style="font-size: x-large;">If your primary or your other DNS servers go off-line because of maintenance or some disaster, our DNS servers will continue serving requests for your domain names..</li></p><br>
+                    <li><p style="font-size: x-large;">In the event of failure of your primary DNS server our secondary DNS service will provide backup and redundancy.</li></p><br>
+                    <li><p style="font-size: x-large;">Having secondary DNS servers off-site provides even better protection, since 2 servers on the same power-outlet or network connection could easily be affected by the same disaster (power failure, network outage, flooding, etc.).</li></p><br>
+                    <li><p style="font-size: x-large;">Our backup DNS servers providing Secondary DNS are located on physically and topologically separated networks to prevent any downtime caused by a single catastrophic event. With our Secondary DNS service you no longer have to wonder, "Is my DNS name server still up?" - even if yours goes down, we will continue to resolve your queries.</li></p><br>
+                    <li><p style="font-size: x-large;">If you are connecting to the Internet with a cable or DSL modem, you could easily run your own primary DNS server. However, most domain registrars require at least two DNS servers for each domain name.
+By using this service, you will still have full control over your domain name's on your primary DNS server.
+Any changes or updates you make (on your primary server) are automatically and instantly transferred to our secondary servers (through standard zone transfers).</li></p><br>
+                    </ul>
+                </p>
+            </div>
+        </div>
+        <div class="banner">
+            <div class="box3">
+                <p style="background-image:url('bgwhite.jpg');">
+                    <h1><u>Features</u></h1><br>
+                    <img src="backupdns2.png" align="center" width="550px" height="350px"><br><br>
+                    <ul>
+                        <li style="font-size:x-large;">Redundancy of world-class DNS servers with a diverse blend of networks.</li><br>
+                        <li style="font-size: x-large;">Works with any flavour of DNS server supporting standard DNS zone transfers (for example Simple DNS Plus, BIND, or Microsoft DNS server)</li><br>
+                        <li style="font-size: x-large;">Geographically-diverse network locations.</li><br>
+                        <li style="font-size: x-large;">Easy to follow instructions and industry-leading email and telephone technical support</li><br>
+                        <li style="font-size: x-large;">Up to 99 DNS records per domain name and up to 3,000,000 queries/month</li><br>
+                        <li style="font-size: x-large;">24x7x365 Premier Support for peace of mind and assurance of availability.</li><br></p>
+                    <ul>
+                </p>
+            </div>
+        </div>
+        <div class="banner">
+            <div class="box3">
+                <p style="background-image:url('newbg2.jpg');">
+                    <h2><u>Backup DNS Server - Secondary DNS Service</u></h2><br><br>
+                    <p style="font-size: large;">Only £29.95 (no VAT) price per DNS zone (domain name) per year.</p><br><br>
+                    <h3>For more info on prices, click here:</h3>
+                    <div>
+                        <form action="Prices.html">
+                        <button type="submit" class="button">PRICES</button>
+                        </form>
+                    </div><hr>
+                </p>
+                    <br>
+                    <div>
+    </body>
+
+</html>
+
+
+                
