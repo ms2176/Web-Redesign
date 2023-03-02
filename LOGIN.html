@@ -46,7 +46,7 @@
     <div class="containerlogin">
        <div class="form-box">
         <h1 id="titlesignup"> Sign  Up</h1>
-        <form>
+        <form id="form" action="#">
             <div class="input-group">
                 <div class="input-field" id="nameField" >
                     <i class="fa-solid fa-user"></i>
@@ -54,7 +54,8 @@
                 </div>
                 <div class="input-field">
                     <i class="fa-solid fa-envelope"></i>
-                    <input type="email" placeholder="Email">
+                    <input id="email" type="email" placeholder="Email"  onkeyup="validateEmail()">
+                    <span id="text"></span>
                 </div>
                 <div class="input-field">
                     <i class="fa-solid fa-lock"></i>
@@ -70,7 +71,14 @@
 
        </div>
     </div>
-<script type="text/javascript" src="JAVASCRIPT.js"> </script>
+<script type="text/javascript" src="JAVASCRIPT.js">
+
+
+
+
+
+
+</script>
 
    
     

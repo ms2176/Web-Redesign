@@ -770,6 +770,13 @@ li {
 	padding: 50px 60px 70px;
 	text-align: center;
 }
+#text{
+    display:block;
+    color: #000;
+    font-weight: 300;
+    font-style: italic;
+    padding: 5px;
+}
 
 .form-box h1{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
