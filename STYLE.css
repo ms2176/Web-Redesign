@@ -43,8 +43,8 @@ height:220px;}
     background-color:#000100;
 height:190px;}
 
-#sec5h3{margin-top:400px;
-     position:fixed;
+#sec5h3{margin-top:350px;
+   
 
     background-color:#000100;
     height:220px;
@@ -60,7 +60,7 @@ height:190px;}
     background-color:#000100;
 height:220px;}
 
-#sec5h6{margin-top:1360px;
+#sec5h6{margin-top:1450px;
   
     background-color:#000100;
 height:220px;}
@@ -890,7 +890,7 @@ button:hover{
 	border-radius: 3px;
 	background: #3c00a0;
 	position: absolute;
-	bottom: 490px;
+	bottom: 520px;
 	left: 47%;
 }
 .Info h2{margin-top:0px;
@@ -912,6 +912,7 @@ button:hover{
 	position:absolute;
 	top:50%;
 	left:50%;
+    height:500px;
 	transform: translate(-50%,-50%);
 	background: #B4D2E7;
 	padding: 30px 60px 70px;
