@@ -22,6 +22,11 @@ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color:#000100;
 }
 
+#sec5s2{margin-top:0px;
+  width:1263px;
+  margin-left:-150px;
+    background-color:#000100;
+}
 
 #sec5h{margin-top:0px;
   
@@ -29,7 +34,7 @@ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 height:230px;}
 
 #sec5h1{margin-top:270px;
-  position:relative;
+  
     background-color:#000100;
 height:220px;}
 
@@ -39,9 +44,11 @@ height:220px;}
 height:190px;}
 
 #sec5h3{margin-top:400px;
-  
+     position:fixed;
+
     background-color:#000100;
-height:220px;}
+    height:220px;
+}
 
 #sec5h4{margin-top:1120px;
   
@@ -629,6 +636,7 @@ summary::-webkit-details-marker {
 
 .faq {
     background: #B4D2E7;
+    
     padding: 20px;
     border-radius: 30px;
     border-top-left-radius: 30px;
@@ -1030,7 +1038,7 @@ padding:10px;
 }
 
 .price-col ul{
-    text-align: left;
+    text-align: center;
     margin: 20px 0;
     color:black;
 }
@@ -1442,6 +1450,7 @@ button:hover{
 @import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
 .serviceall {
    box-sizing: border-box;
+   margin-top:-10px;
    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
    align-items: left;
    font-weight:normal;
@@ -1496,6 +1505,7 @@ button:hover{
 }
 .banner4{
    
+    margin-top: -10px;
     height:100%;
     background-color:#000100;
     padding-left:50px;
@@ -1655,5 +1665,5 @@ thirdfont2{
     padding-left: 350px;
     border: none;
     height: 1px;
-    width: 500px;
+    width: 910px;
 }
