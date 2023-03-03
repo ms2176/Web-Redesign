@@ -22,11 +22,6 @@ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color:#000100;
 }
 
-#sec5s2{margin-top:0px;
-  width:1263px;
-  margin-left:-150px;
-    background-color:#000100;
-}
 
 #sec5h{margin-top:0px;
   
@@ -34,7 +29,7 @@ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 height:230px;}
 
 #sec5h1{margin-top:270px;
-  
+  position:relative;
     background-color:#000100;
 height:220px;}
 
@@ -43,12 +38,10 @@ height:220px;}
     background-color:#000100;
 height:190px;}
 
-#sec5h3{margin-top:350px;
-   
-
+#sec5h3{margin-top:400px;
+  
     background-color:#000100;
-    height:220px;
-}
+height:220px;}
 
 #sec5h4{margin-top:1120px;
   
@@ -60,7 +53,7 @@ height:190px;}
     background-color:#000100;
 height:220px;}
 
-#sec5h6{margin-top:1450px;
+#sec5h6{margin-top:1360px;
   
     background-color:#000100;
 height:220px;}
@@ -565,8 +558,8 @@ p{
     margin: auto;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    grid-gap: 70px;
-
+    row-gap: 70px;
+    column-gap: 70px;
 }
 
 .title {
@@ -636,7 +629,6 @@ summary::-webkit-details-marker {
 
 .faq {
     background: #B4D2E7;
-    
     padding: 20px;
     border-radius: 30px;
     border-top-left-radius: 30px;
@@ -778,13 +770,6 @@ li {
 	padding: 50px 60px 70px;
 	text-align: center;
 }
-#text{
-    display:block;
-    color: #000;
-    font-weight: 300;
-    font-style: italic;
-    padding: 5px;
-}
 
 .form-box h1{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -897,7 +882,7 @@ button:hover{
 	border-radius: 3px;
 	background: #3c00a0;
 	position: absolute;
-	bottom: 520px;
+	bottom: 490px;
 	left: 47%;
 }
 .Info h2{margin-top:0px;
@@ -919,7 +904,6 @@ button:hover{
 	position:absolute;
 	top:50%;
 	left:50%;
-    height:500px;
 	transform: translate(-50%,-50%);
 	background: #B4D2E7;
 	padding: 30px 60px 70px;
@@ -980,14 +964,12 @@ padding:10px;
     align-items:  center;
 }
 
-
-
+/* WEB HOSTING */
 
 .web-hosting-entire-page{
     margin: 0;
     margin-top: -4px;
     padding: 0;
-   
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
@@ -1018,8 +1000,9 @@ padding:10px;
     max-width: 1100px;
     margin: auto;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    grid-gap: 25px;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); 
+    row-gap: 25px;
+    column-gap: 25px;
 }
 
 .price-col{ 
@@ -1046,7 +1029,7 @@ padding:10px;
 }
 
 .price-col ul{
-    text-align: center;
+    text-align: left;
     margin: 20px 0;
     color:black;
 }
@@ -1109,7 +1092,8 @@ button:hover{
     margin: auto;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    grid-gap: 50px;
+    row-gap: 50px;
+    column-gap: 50px;
 }
 
 .price-col-2{ 
@@ -1242,7 +1226,8 @@ button:hover{
     margin: auto;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    grid-gap: 25px;
+    row-gap: 25px;
+    column-gap: 25px;
 }
 
 .price-col-4{ 
@@ -1310,7 +1295,8 @@ button:hover{
     margin: auto;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    grid-gap: 50px;
+    row-gap: 50px;
+    column-gap: 50px;
 }
 
 .price-col-dn{ 
@@ -1394,7 +1380,8 @@ button:hover{
     margin: auto;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    grid-gap: 50px;
+    row-gap: 50px;
+    column-gap: 50px;
 }
 
 .price-col-dn-2nd-edition{ 
@@ -1458,7 +1445,6 @@ button:hover{
 @import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
 .serviceall {
    box-sizing: border-box;
-   margin-top:-10px;
    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
    align-items: left;
    font-weight:normal;
@@ -1513,7 +1499,6 @@ button:hover{
 }
 .banner4{
    
-    margin-top: -10px;
     height:100%;
     background-color:#000100;
     padding-left:50px;
@@ -1673,5 +1658,5 @@ thirdfont2{
     padding-left: 350px;
     border: none;
     height: 1px;
-    width: 910px;
+    width: 500px;
 }
